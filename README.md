@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Paull-dark
-- 👀 I’m interested in Depp Learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Depp Learning, Machine Learning
+- 🌱 I’m currently learning MongoDB and AWS
 - 📫 How to reach me ...
 
 <!---
